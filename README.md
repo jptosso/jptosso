@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the [Coraza WAF](Coraza WAF initiative)
+- 🔭 I’m currently working on the [Coraza WAF](https://github.com/jptosso/coraza-waf)
 - 🌱 I’m currently learning new data structures and modern programming technologies
 - 👯 I’m looking to collaborate on Open Source Initiatives
 - 🤔 I’m looking for help with [Coraza WAF](https://github.com/jptosso/coraza-waf)
