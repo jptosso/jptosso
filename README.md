@@ -27,5 +27,7 @@
     <img align="middle" alt="Juan Pablo Tosso email" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/email.svg" hspace="30" />
   </a>
 
-
+  <a href="https://www.twitter.com/jptosso">
+    <img align="middle" alt="Juan Pablo Tosso twitter" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" hspace="30" />
+  </a>
 </div>
