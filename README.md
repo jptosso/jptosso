@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the [Coraza WAF](https://github.com/jptosso/coraza-waf)
+- 🔭 I’m currently working in [Coraza WAF](https://github.com/jptosso/coraza-waf) project
 - 🌱 I’m currently learning new data structures and modern programming technologies
 - 👯 I’m looking to collaborate on Open Source Initiatives
-- 🤔 I’m looking for help with [Coraza WAF](https://github.com/jptosso/coraza-waf)
+- 🤔 I’m looking for help in my project [Coraza WAF](https://github.com/jptosso/coraza-waf)
 
 <p align="center">
   <samp>
@@ -14,7 +14,7 @@
 
 <p align="center">
   <samp>
-    My interests are <b>cybersecurity</b>, <b>DevSecOps</b> and <b>Containers</b>. (Redundancy!!)
+    My interests are <b>cybersecurity</b>, <b>DevOps</b> and <b>Containers</b>. (or DevSecOps)
   </samp>
   <br><br>
 </p>
