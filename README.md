@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-[![jptosso's GitHub stats](https://github-readme-stats.vercel.app/api?username=jptosso)](https://github.com/jptosso)
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=jptosso">
 </p>
 
 <div align="center">
