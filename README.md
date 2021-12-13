@@ -18,7 +18,9 @@
   <br><br>
 </p>
 
+<p align="center">
 [![jptosso's GitHub stats](https://github-readme-stats.vercel.app/api?username=jptosso)](https://github.com/jptosso)
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jptosso/">
