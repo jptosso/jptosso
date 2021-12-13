@@ -31,4 +31,8 @@
   <a href="https://www.twitter.com/jptosso">
     <img align="middle" alt="Juan Pablo Tosso twitter" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" hspace="30" />
   </a>
+  
+  <a href="https://www.tosso.io/">
+    <img align="middle" alt="Juan Pablo Tosso's website" width="48px" src="https://camo.githubusercontent.com/702655104afd65ad02c658dd178f2400bcea86ef7c4e6545562bceacf7856228/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f776f726470726573732e737667" hspace="30" />
+  </a>
 </div>
