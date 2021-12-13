@@ -1,18 +1,12 @@
 <p align="center">
   <samp>
-    Hi!, I'm Juan Pablo Tosso, Chief Cybersecurity Officer at <a href="https://makros.cl/">Makros</a>.
+    Hi!, I'm Juan Pablo Tosso, founder of the <a href="https://github.com/jptosso/coraza-waf">Coraza Web Application Firewall</a> project.
   </samp>
 </p>
 
 <p align="center">
   <samp>
     My interests are Web application Firewalls :heart: and containers.
-  </samp>
-</p>
-
-<p align="center">
-  <samp>
-    I'm the founder of the <a href="https://github.com/jptosso/coraza-waf">Coraza Web Application Firewall</a> project.
   </samp>
 </p>
 
