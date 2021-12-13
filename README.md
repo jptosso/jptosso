@@ -18,6 +18,8 @@
   <br><br>
 </p>
 
+[![jptosso's GitHub stats](https://github-readme-stats.vercel.app/api?username=jptosso)](https://github.com/jptosso)
+
 <div align="center">
   <a href="https://www.linkedin.com/in/jptosso/">
     <img align="middle" alt="Juan Pablo Tosso Linkedin" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" hspace="30" />
