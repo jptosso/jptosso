@@ -12,7 +12,7 @@
 
 <p align="center">
   <samp>
-    I'm the Chief Cybersecurity Officer @ <a href="https://www.makros.cl/">Makros</a>.
+    I'm working as a Cybersecurity Researcher and Advisor @ <a href="https://www.traceable.ai/">Traceable AI</a>.
   </samp>
 </p>
 
