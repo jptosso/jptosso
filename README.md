@@ -12,12 +12,8 @@
 
 <p align="center">
   <samp>
-    I'm working as a Cybersecurity Researcher and Advisor @ <a href="https://www.traceable.ai/">Traceable AI</a>.
+    I'm working as a Cybersecurity Research Engineer @ <a href="https://www.traceable.ai/">Traceable AI</a>.
   </samp>
-</p>
-
-<p align="center">
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=jptosso">
 </p>
 
 <div align="center">
